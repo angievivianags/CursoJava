@@ -1,0 +1,21 @@
+
+8
+java:S3626"Remove this redundant jump.(ûÁİ…8œ€Ëòš1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(À·Ëóüÿÿÿÿ8¾úÈòš1
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(ÿœ‹Ü8ïäÉòš1
+C	java:S108")Either remove or fill this block of code.(¡»¢üùÿÿÿÿ
+>	java:S108")Either remove or fill this block of code.(”ı¾
+_
+java:S2147"DCombine this catch with the one at line 26, which has the same body.(È¶ƒÈşÿÿÿÿ
+Z
+java:S2147"DCombine this catch with the one at line 26, which has the same body.(”ı¾
+C	java:S108")Either remove or fill this block of code.(¡»¢üùÿÿÿÿ
+>	java:S108")Either remove or fill this block of code.(ßÈ´
+C	java:S108")Either remove or fill this block of code.(È¶ƒÈşÿÿÿÿ
+>	java:S108")Either remove or fill this block of code.(”ı¾
+C	java:S108#")Either remove or fill this block of code.(¡»¢üùÿÿÿÿ
+>	java:S108%")Either remove or fill this block of code.(Úîø›
+C	java:S108*")Either remove or fill this block of code.(¡»¢üùÿÿÿÿ
+>	java:S108,")Either remove or fill this block of code.(”ı¾
+>	java:S108.")Either remove or fill this block of code.(Úîø›

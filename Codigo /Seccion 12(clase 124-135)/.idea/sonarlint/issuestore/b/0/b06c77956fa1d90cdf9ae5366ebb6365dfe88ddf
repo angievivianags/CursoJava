@@ -1,0 +1,11 @@
+
+`
+java:S1192"JDefine a constant instead of duplicating this literal "Chabelita" 3 times.(€É‘
+f
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã
+W
+java:S1126"AReplace this if-then-else statement by a single return statement.(™¡‡
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ş›Ş„üÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(Â¤Í¹øÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(±Éí­ùÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(¼¶ 

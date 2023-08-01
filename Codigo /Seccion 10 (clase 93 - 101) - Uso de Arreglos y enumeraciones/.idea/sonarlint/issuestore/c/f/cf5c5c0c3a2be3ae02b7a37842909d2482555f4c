@@ -1,0 +1,19 @@
+
+L
+java:S11974"*Move the array designators [] to the type.(ó«™õùÿÿÿÿ8üŞÅÑ0
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(’ğ¦‰ùÿÿÿÿ8ıŞÅÑ0
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(ƒÃşõ8şŞÅÑ0
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(ğ¦œÃ8şŞÅÑ0
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(Ì“¤üşÿÿÿÿ8şŞÅÑ0
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÿŞÅÑ0
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(“ÅŸŒ8ÿŞÅÑ0
+L
+java:S1197C"*Move the array designators [] to the type.(Öïî²ùÿÿÿÿ8ÿŞÅÑ0
+I
+java:S1481H",Remove this unused "cuenta2" local variable.(ø„˜÷8€ßÅÑ0
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(’ğ¦‰ùÿÿÿÿ8€ßÅÑ0
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(ƒÃşõ8€ßÅÑ0
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(ğ¦œÃ8ßÅÑ0
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(Ì“¤üşÿÿÿÿ8ßÅÑ0
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ßÅÑ0
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(“ÅŸŒ8ßÅÑ0

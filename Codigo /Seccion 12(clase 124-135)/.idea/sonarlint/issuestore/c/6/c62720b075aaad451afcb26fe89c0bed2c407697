@@ -1,0 +1,8 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(……¥˙8„≤¶Ûö1
+ó
+java:S1186"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(……¥˙
+û
+java:S1186"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ëß©Ø8ºÅ¶Ûö1
+X
+java:S2094"BRemove this empty class, write its code or make it an "interface".(Ú‰Ωô

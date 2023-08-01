@@ -1,0 +1,13 @@
+
+N
+java:S1854"8Remove this useless assignment to local variable "edad".(§‹¿¶
+?
+java:S1481")Remove this unused "edad" local variable.(§‹¿¶
+E
+java:S1197"*Move the array designators [] to the type.(¢É¨ƒùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‰À…¥
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÑùÊÊşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñ¼ã–
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‘Ä¸Éùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‘Ä¸Éùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ

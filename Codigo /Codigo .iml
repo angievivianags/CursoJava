@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Clase 10-ejemplo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clase 11-ejemplo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clase 12-ejemplo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clase 13-ejemplo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clase 14-ejemplo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clase 15-ejemplo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clase 16-ejemplo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clase 17-ejemplo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clase 18-ejemplo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clase 19-ejercicios" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clase 21-ejemplo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clase 22-ejemplo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clase 23-ejemplo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clase 24-ejemplo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clase 25-ejemplo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clase 26-ejemplo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clase 27-ejemplo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clase 28-ejemplo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clase 29-ejemplo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clase 30-ejemplo " isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clase 31-ejemplo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clase 32-ejemplo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clase 33-Ejercicios" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clase 36-ejemplo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clase 38-ejemplo " isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clase 39-ejemplo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clase 40-ejemplo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Clase 6-ejemplo" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
